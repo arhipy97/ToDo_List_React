@@ -1,0 +1,17 @@
+.Header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    margin-bottom: 25px;
+}
+
+p{
+    margin-bottom: 0px;
+}
+
+p span:first-child{
+    margin-right: 5px;
+}
